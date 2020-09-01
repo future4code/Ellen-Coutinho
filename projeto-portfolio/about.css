@@ -23,8 +23,6 @@ nav a{text-decoration: none;}
     border-bottom: 1px solid rgb(247, 203, 6);
 }
 .link:hover{background-color: #d9dbc486;}
-
-
 body{
     background-image: url("img/fundo.jpg");
     background-attachment: fixed;
@@ -32,7 +30,6 @@ body{
     background-repeat: no-repeat;
     background-color: black;
 }
-
 .intro {
     color: white;
     justify-content: center;
@@ -59,14 +56,10 @@ body{
     font-size: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-
-
-
 footer{
     margin-top: 150px;
     margin-left: 150px;
 }
-
 .icon-social img{
     width: 2rem;
     height: 2rem;
