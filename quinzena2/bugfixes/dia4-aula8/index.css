@@ -118,6 +118,13 @@ table {
     width: 60%;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    position: absolute; 
+    left:350px; 
+    
+}
+
+.tabela{
+    text-align: center;
 }
 
 table img{
@@ -147,6 +154,10 @@ td button {
     border-radius: 5px;
     font-size: 10px;
     color: black;
+    position: absolute; 
+    bottom: 200px;
+    left: 50%; 
+    margin: 0 0 0-50px
 }
 
 #back-button:hover {
