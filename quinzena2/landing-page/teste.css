@@ -21,7 +21,10 @@ section{
     margin-top: 80px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 .banner h2{
     font-size: 3em;
     color: black;
@@ -173,8 +176,11 @@ main{
     }    
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
 .fourth-section{
     background: #ff914d;
     display: flex;
@@ -191,6 +197,10 @@ main{
     font-size: 3em;
     font-weight: 500;
     line-height: 1.5em;
+<<<<<<< HEAD
+=======
+    margin: 10px 10px;
+>>>>>>> master
 }
 
 .fourth-section p{
