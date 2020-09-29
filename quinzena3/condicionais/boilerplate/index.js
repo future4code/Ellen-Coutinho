@@ -57,9 +57,9 @@
 //Exercicio.7
 //
 //const movie = prompt("Qual gênero deseja assistir?")
-//const price = Number("Qual o valor do ingresso?")
+//const price = prompt("Qual o valor do ingresso?")
 //
-//if(movie === "fantasia"){
+//if(movie === "fantasia" && price <= 15){
     // console.log("Bom filme!")
 //} else{
     //  console.log("Escolha outro filme!")
